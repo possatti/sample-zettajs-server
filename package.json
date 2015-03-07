@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "zetta": "~0.21.0",
-    "zetta-led-mock-driver": "~0.7.1"
+    "zetta-led-mock-driver": "~0.7.1",
+    "zetta-photocell-mock-driver": "~0.4.0"
   }
 }
