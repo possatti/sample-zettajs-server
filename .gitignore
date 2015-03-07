@@ -1,3 +1,7 @@
+# Zetta generated files
+.devices/
+.peers/
+
 # Logs
 logs
 *.log
