@@ -19,5 +19,8 @@
   "author": "Lucas Possatti",
   "bugs": {
     "url": "https://github.com/possatti/dusk-to-dawn/issues"
+  },
+  "dependencies": {
+    "zetta": "~0.21.0"
   }
 }
