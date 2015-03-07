@@ -1,0 +1,23 @@
+{
+  "name": "dusk-to-dawn",
+  "version": "0.0.0",
+  "description": "Um exemplo do uso do zettajs para controlar um sistema de iluminação.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/possatti/dusk-to-dawn"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "zettajs",
+    "IoT"
+  ],
+  "author": "Lucas Possatti",
+  "bugs": {
+    "url": "https://github.com/possatti/dusk-to-dawn/issues"
+  }
+}
