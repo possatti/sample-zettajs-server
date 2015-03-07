@@ -21,6 +21,7 @@
     "url": "https://github.com/possatti/dusk-to-dawn/issues"
   },
   "dependencies": {
-    "zetta": "~0.21.0"
+    "zetta": "~0.21.0",
+    "zetta-led-mock-driver": "~0.7.1"
   }
 }
