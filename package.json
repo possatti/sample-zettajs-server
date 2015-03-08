@@ -1,14 +1,14 @@
 {
-  "name": "dusk-to-dawn",
+  "name": "sample-zettajs-server",
   "version": "0.0.0",
-  "description": "Um exemplo do uso do zettajs para controlar um sistema de iluminação.",
+  "description": "Um exemplo do uso do zettajs.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/possatti/dusk-to-dawn"
+    "url": "https://github.com/possatti/sample-zettajs-server"
   },
   "keywords": [
     "nodejs",
@@ -18,7 +18,7 @@
   ],
   "author": "Lucas Possatti",
   "bugs": {
-    "url": "https://github.com/possatti/dusk-to-dawn/issues"
+    "url": "https://github.com/possatti/sample-zettajs-server/issues"
   },
   "dependencies": {
     "zetta": "~0.21.0",
